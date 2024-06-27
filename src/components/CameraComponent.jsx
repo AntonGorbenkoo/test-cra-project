@@ -136,6 +136,7 @@
 import React, { useRef, useState, useEffect, useCallback } from 'react';
 import { ReactComponent as Facingicon } from './facingIcon.svg';
 import { ReactComponent as PhotoIcon } from './photoIcon.svg';
+import { ReactComponent as Circle } from './circle.svg';
 import '../App.css';
 import Webcam from 'react-webcam';
 
@@ -214,7 +215,7 @@ function CameraComponent() {
           <button onClick={() => setEnabled(!isEnabled)}>
             {isEnabled ? 'Off' : 'ON'}
           </button>
-          <button
+          {/* <button
             onClick={() =>
               setFacing(facing === 'user' ? 'environment' : 'user')
             }
@@ -222,9 +223,23 @@ function CameraComponent() {
             <Facingicon />
           </button>
           <button onClick={makePhoto}>
-            <PhotoIcon />
-          </button>
+            <Circle />
+          </button> */}
         </div>
+        {isEnabled && (
+          <div className="takePhoto">
+            <button onClick={makePhoto}>
+              <Circle />
+            </button>
+            <button
+              onClick={() =>
+                setFacing(facing === 'user' ? 'environment' : 'user')
+              }
+            >
+              <Facingicon />
+            </button>
+          </div>
+        )}
       </div>
     </>
   );
