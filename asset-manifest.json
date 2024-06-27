@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/test-cra-project/static/css/main.f855e6bc.css",
-    "main.js": "/test-cra-project/static/js/main.bb4e513d.js",
+    "main.css": "/test-cra-project/static/css/main.90384291.css",
+    "main.js": "/test-cra-project/static/js/main.7597e872.js",
     "static/js/453.8cb9642e.chunk.js": "/test-cra-project/static/js/453.8cb9642e.chunk.js",
-    "static/media/logo.svg": "/test-cra-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/facingIcon.svg": "/test-cra-project/static/media/facingIcon.c8c8f0165d48c6e66aea7dc2de082c9b.svg",
+    "static/media/photoIcon.svg": "/test-cra-project/static/media/photoIcon.158ad27b7dde2611c0a3c15f4a075e57.svg",
     "index.html": "/test-cra-project/index.html",
-    "main.f855e6bc.css.map": "/test-cra-project/static/css/main.f855e6bc.css.map",
-    "main.bb4e513d.js.map": "/test-cra-project/static/js/main.bb4e513d.js.map",
+    "main.90384291.css.map": "/test-cra-project/static/css/main.90384291.css.map",
+    "main.7597e872.js.map": "/test-cra-project/static/js/main.7597e872.js.map",
     "453.8cb9642e.chunk.js.map": "/test-cra-project/static/js/453.8cb9642e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.bb4e513d.js"
+    "static/css/main.90384291.css",
+    "static/js/main.7597e872.js"
   ]
 }
