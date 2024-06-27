@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/test-cra-project/static/css/main.90384291.css",
-    "main.js": "/test-cra-project/static/js/main.7597e872.js",
+    "main.css": "/test-cra-project/static/css/main.f8e21999.css",
+    "main.js": "/test-cra-project/static/js/main.80b8bab2.js",
     "static/js/453.8cb9642e.chunk.js": "/test-cra-project/static/js/453.8cb9642e.chunk.js",
     "static/media/facingIcon.svg": "/test-cra-project/static/media/facingIcon.c8c8f0165d48c6e66aea7dc2de082c9b.svg",
     "static/media/photoIcon.svg": "/test-cra-project/static/media/photoIcon.158ad27b7dde2611c0a3c15f4a075e57.svg",
     "index.html": "/test-cra-project/index.html",
-    "main.90384291.css.map": "/test-cra-project/static/css/main.90384291.css.map",
-    "main.7597e872.js.map": "/test-cra-project/static/js/main.7597e872.js.map",
+    "main.f8e21999.css.map": "/test-cra-project/static/css/main.f8e21999.css.map",
+    "main.80b8bab2.js.map": "/test-cra-project/static/js/main.80b8bab2.js.map",
     "453.8cb9642e.chunk.js.map": "/test-cra-project/static/js/453.8cb9642e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90384291.css",
-    "static/js/main.7597e872.js"
+    "static/css/main.f8e21999.css",
+    "static/js/main.80b8bab2.js"
   ]
 }
